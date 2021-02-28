@@ -44,15 +44,15 @@ i, svg {
 }
 
 .kick-pad.active {
-    background: rgb(83, 133, 240);
+    background: rgb(22, 92, 243);
 }
 
 .snare-pad.active {
-    background: rgb(62, 243, 107);
+    background: rgb(14, 219, 66);
 }
 
 .hihat-pad.active {
-    background: rgb(214, 146, 68);
+    background: rgb(226, 130, 21);
 }
 
 .hihat-track, .kick-track, .snare-track {
